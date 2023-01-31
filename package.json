@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-ban-class",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Ban named specific class",
   "repository": "shinspiegel/eslint-plugin-ban-class",
   "keywords": [
