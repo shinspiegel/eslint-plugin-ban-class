@@ -18,7 +18,7 @@ The name is case sensitive, so `DateTime` is **not** the same as `Datetime`.
 
 ```js
 ...
-"ban-class/ban-class": ["on", { "banned": ["Date"] }]
+"ban-class/ban-class": ["error", { "banned": ["Date"] }]
 ...
 ```
 
